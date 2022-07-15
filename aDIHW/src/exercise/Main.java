@@ -23,6 +23,7 @@ public class Main {
 		customerService.saveCustomer(customer);
 		customerService.deleteCustomer(1);		
 		
+		System.out.println("건담!");
 	}
 
 }
